@@ -5,4 +5,6 @@
 # Editar los archivos del repositorio en local
 
 ### Despues en local editamos los archivos, por ejemplo el readme (que es lo que estoy haciendo ahora)
+![Screentshot edicion readme](https://github.com/Ramago1715/Git_project/blob/main/edicionreadme.png)
 ### Ademas de subir las caputras de pantalla
+![Segunda Screenshot](https://github.com/Ramago1715/Git_project/blob/main/git2.png)
